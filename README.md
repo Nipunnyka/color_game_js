@@ -1,2 +1,3 @@
 # color_game_js
-dveloped colt steele bootcamp course
+dveloped for colt steele bootcamp course
+The design is responsive, but the focus of this project is JavaScript.
